@@ -1,0 +1,35 @@
+site_name: GraphQL
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: index.md
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/linkedin
+      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/medium
+      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<email-address>
