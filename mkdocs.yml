@@ -1,8 +1,9 @@
 site_name: GraphQL
 nav:
   - Home: index.md
-  - Getting Started:
-      - Installation: index.md
+  - Example:
+      Crud App:
+        Project Setup: examples/crud-app/project-setup.md
 extra_css:
   - stylesheets/extra.css
 theme:

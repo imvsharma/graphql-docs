@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to GraphQL
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full Official documentation visit [graphql.org/](https://graphql.org/).
 
 ## Commands
 
