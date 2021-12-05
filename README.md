@@ -1,1 +1,2 @@
-# graphql-docs
+# Initial page
+
